@@ -6,14 +6,7 @@ Section 1: Preprocessing
 
 Q1. Create a file “people.txt” with the following data:
 
-
-Age	agegroup	height	status	yearsmarried
-21	adult	      6.0	   single	    -1
-2	child	         3	    married    	0
-18	adult	      5.7	   married	    20
-221	elderly	      5	    widowed	    2
-34	child	      -7	   married	    3
-
+<img width="564" alt="Screenshot 2023-05-05 at 12 51 59 PM" src="https://user-images.githubusercontent.com/79685957/236398891-029ca7ff-7bc0-4a95-8da8-f45f1a77f660.png">
 
 i)	Read the data from the file “people.txt”.
 
